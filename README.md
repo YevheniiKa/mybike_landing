@@ -31,7 +31,6 @@ The main purpose of this project is to practice building a professional, adaptiv
 
 - **HTML5** – semantic structure
 - **SCSS (Sass)** – styling with responsive mixins
-- **JavaScript (ES6)** – interactivity for menu and forms
 - **Google Fonts (Poppins)** – clean modern typography
 - **Flexbox & CSS Grid** – responsive layout
 
